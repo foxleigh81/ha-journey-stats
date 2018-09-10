@@ -46,6 +46,7 @@
         ]
     },
     "dependencies": {
+        "d3": "^5.7.0",
         "element-theme": "^2.0.1"
     },
     "devDependencies": {
