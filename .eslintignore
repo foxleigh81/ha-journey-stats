@@ -1,0 +1,19 @@
+# Tests
+__tests__/*
+
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Nuxt build
+.nuxt/
+
+# Nuxt generate
+dist/
+sw.*
+
+# Temporary
+tmp/
