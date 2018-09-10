@@ -17,7 +17,7 @@ module.exports = {
      * PWA manifest
      */
     manifest: {
-        name: 'GOODSTART',
+        name: 'traffic',
         lang: 'en',
         display: 'minimal-ui'
     },
@@ -30,7 +30,7 @@ module.exports = {
         meta: [
             { charset: 'utf-8' },
             { name: 'theme-color', content: '#C9C9C9' },
-            { name: 'author', content: 'GOODSTART' },
+            { name: 'author', content: 'traffic' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: '' }
         ],

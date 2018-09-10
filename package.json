@@ -46,6 +46,7 @@
         ]
     },
     "dependencies": {
+        "@nuxtjs/apollo": "^4.0.0-rc1",
         "d3": "^5.7.0",
         "element-theme": "^2.0.1"
     },
