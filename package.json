@@ -78,6 +78,8 @@
         "babel-preset-stage-2": "^6.24.1",
         "babel-preset-stage-3": "^6.24.1",
         "babel-preset-vue": "^2.0.2",
+        "element-theme-chalk": "^2.1.0",
+        "element-ui": "^2.0.11",
         "eslint": "^4.3.0",
         "eslint-config-standard": "^10.2.1",
         "eslint-loader": "^1.9.0",
@@ -100,14 +102,13 @@
         "postcss-clean": "^1.1.0",
         "ramda": "^0.25.0",
         "sass-loader": "^6.0.6",
+        "standard": "^12.0.1",
         "vue-apollo": "^3.0.0-beta.19",
         "vue-jest": "^1.4.0",
         "vue-server-renderer": "2.5.17",
         "vue-style-loader": "^3.0.3",
         "vue-test-utils": "^1.0.0-beta.9",
         "vuex-router-sync": "^5.0.0",
-        "write-file-webpack-plugin": "^4.3.2",
-        "element-theme-chalk": "^2.1.0",
-        "element-ui": "^2.0.11"
+        "write-file-webpack-plugin": "^4.3.2"
     }
 }
